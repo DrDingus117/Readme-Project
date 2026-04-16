@@ -1,14 +1,19 @@
-# Superstore API
+# Superstore
+This project shows a front end writen with React.JS, writen in C#, and SQL Stored Procedures 
+
+---
+
+## Superstore API
 
 ---
 
 ## Address
 
-GET /api/addresses  
+**GET** /api/addresses  
 GET /api/addresses/{id}  
-POST /api/addresses  
-PUT /api/addresses/{id}  
-DELETE /api/addresses/{id}  
+**POST** /api/addresses  
+**PUT** /api/addresses/{id}  
+**DELETE** /api/addresses/{id}  
 
 ---
 
@@ -122,10 +127,10 @@ DELETE /api/states/{id}
 
 ---
 
-## SubCategory
+## SubCategory 
 
 GET /api/subcategories  
 GET /api/subcategories/{id}  
 POST /api/subcategories  
 PUT /api/subcategories/{id}  
-DELETE /api/subcategories/{id}  
+DELETE /api/subcategories/{id}    
