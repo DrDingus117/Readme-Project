@@ -17,34 +17,24 @@ GET /api/addresses/{id}
 
 ---
 
-## AddressType
+## AddressType (LookupTable)
 
 GET /api/addresstypes  
-GET /api/addresstypes/{id}  
-POST /api/addresstypes  
-PUT /api/addresstypes/{id}  
-DELETE /api/addresstypes/{id}  
+
 
 ---
 
-## Category
+## Category (LookupTable)
 
 GET /api/categories  
-GET /api/categories/{id}  
-POST /api/categories  
-PUT /api/categories/{id}  
-DELETE /api/categories/{id}  
+  
 
 ---
 
-## Country
+## Country (LookupTable)
 
 GET /api/countries  
-GET /api/countries/{id}  
-POST /api/countries  
-PUT /api/countries/{id}  
-DELETE /api/countries/{id}  
-
+  
 ---
 
 ## Customer
@@ -87,50 +77,31 @@ DELETE /api/products/{id}
 
 ---
 
-## Region
+## Region (LookupTable)
 
 GET /api/regions  
-GET /api/regions/{id}  
-POST /api/regions  
-PUT /api/regions/{id}  
-DELETE /api/regions/{id}  
 
 ---
 
-## Segment
+## Segment (LookupTable)
 
 GET /api/segments  
-GET /api/segments/{id}  
-POST /api/segments  
-PUT /api/segments/{id}  
-DELETE /api/segments/{id}  
 
 ---
 
-## ShipMode
+## ShipMode (LookupTable)
 
 GET /api/shipmodes  
-GET /api/shipmodes/{id}  
-POST /api/shipmodes  
-PUT /api/shipmodes/{id}  
-DELETE /api/shipmodes/{id}  
 
 ---
 
-## State
+## State (LookupTable)
 
 GET /api/states  
-GET /api/states/{id}  
-POST /api/states  
-PUT /api/states/{id}  
-DELETE /api/states/{id}  
 
 ---
 
-## SubCategory 
+## SubCategory (LookupTable)
 
 GET /api/subcategories  
-GET /api/subcategories/{id}  
-POST /api/subcategories  
-PUT /api/subcategories/{id}  
-DELETE /api/subcategories/{id}    
+   
